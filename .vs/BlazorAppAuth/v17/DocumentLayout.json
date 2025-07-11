@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\francisco taveras\\downloads\\blazorappstest\\blazorappauth\\blazorappauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\francisco taveras\\downloads\\blazorappstest\\blazorappauth\\blazorappauth\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\franc\\downloads\\blazorprojects\\propiedadesblazorauth\\blazorappauth\\components\\pages\\categorias\\crearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\components\\pages\\categorias\\crearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,52 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\Program.cs",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Program.cs",
-              "RelativeToolTip": "BlazorAppAuth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T03:55:46.002Z",
+              "Title": "CrearCategoria.razor",
+              "DocumentMoniker": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "RelativeDocumentMoniker": "BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "ToolTip": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "RelativeToolTip": "BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T19:22:01.904Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\Repositorio\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeToolTip": "BlazorAppAuth\\Repositorio\\CategoriaRepositorio.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAArwEEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T02:59:07.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

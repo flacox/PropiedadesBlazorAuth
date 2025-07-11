@@ -110,7 +110,7 @@ namespace BlazorAppAuth.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categorria");
+                    b.ToTable("Categoria");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

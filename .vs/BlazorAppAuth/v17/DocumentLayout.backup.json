@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\franc\\downloads\\blazorprojects\\propiedadesblazorauth\\blazorappauth\\components\\pages\\categorias\\crearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\components\\pages\\categorias\\crearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\francisco taveras\\downloads\\blazorappstest\\blazorappauth\\blazorappauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\francisco taveras\\downloads\\blazorappstest\\blazorappauth\\blazorappauth\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\francisco taveras\\downloads\\blazorappstest\\blazorappauth\\blazorappauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|c:\\users\\franc\\downloads\\blazorprojects\\propiedadesblazorauth\\blazorappauth\\components\\pages\\categorias\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975AF989-FDD6-4B6F-9135-7A4A77046FEB}|BlazorAppAuth\\BlazorAppAuth.csproj|solutionrelative:blazorappauth\\components\\pages\\categorias\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,78 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs",
-              "RelativeToolTip": "BlazorAppAuth\\Data\\Migrations\\20250709020914_MigracionInicialProyectoPropiedadesCreacionModeloCategoria.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T02:09:14.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BlazorAppAuth\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T01:45:30.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Modelos\\Categoria.cs",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\Modelos\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\Modelos\\Categoria.cs",
-              "RelativeToolTip": "BlazorAppAuth\\Modelos\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T01:40:53.765Z",
+              "Title": "CrearCategoria.razor",
+              "DocumentMoniker": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "RelativeDocumentMoniker": "BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "ToolTip": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "RelativeToolTip": "BlazorAppAuth\\Components\\Pages\\Categorias\\CrearCategoria.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T19:22:01.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorAppAuth\\appsettings.json",
-              "ToolTip": "C:\\Users\\Francisco Taveras\\Downloads\\blazorAppsTest\\BlazorAppAuth\\BlazorAppAuth\\appsettings.json",
-              "RelativeToolTip": "BlazorAppAuth\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-09T01:32:05.796Z",
+              "Title": "Categorias.razor",
+              "DocumentMoniker": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\Categorias.razor",
+              "RelativeDocumentMoniker": "BlazorAppAuth\\Components\\Pages\\Categorias\\Categorias.razor",
+              "ToolTip": "C:\\Users\\franc\\Downloads\\BlazorProjects\\PropiedadesBlazorAuth\\BlazorAppAuth\\Components\\Pages\\Categorias\\Categorias.razor",
+              "RelativeToolTip": "BlazorAppAuth\\Components\\Pages\\Categorias\\Categorias.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T17:28:21.782Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
